@@ -2,3 +2,4 @@ This is Sample File 2
 
 Git Revert Change 1
 This is Comparison lecture
+This is Stash Lecture, change in file 2
