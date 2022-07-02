@@ -1,3 +1,4 @@
 This is Sample File 1
 
 Some text to merge test
+This is Comparison lecture
