@@ -1,0 +1,1 @@
+This is Stash Lecture, change for untracked files in file 3
